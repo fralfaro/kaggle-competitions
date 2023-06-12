@@ -15,7 +15,7 @@ and enthusiasts to participate in various data-related challenges and competitio
 
 
 
-> **Note**: the datasets used are available on [google drive](https://drive.google.com/drive/folders/19MZ8eRYOssb-_vkX3B89AHiV6p7Ik9gy?usp=share_link). 
+> **Note**: the datasets used are available on [google drive](https://drive.google.com/drive/folders/1Um_-RoVwVKpSCr_4W-k5zDKizG7ksTDk). 
 
 
 
